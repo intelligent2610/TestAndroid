@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // custom button value
+    <dimen name="default_custom_button_drawable_padding">3dp</dimen>
+    <dimen name="default_custom_button_shadow_height">1dp</dimen>
+    <dimen name="default_custom_button_conner_radius">0dp</dimen>
+    <dimen name="default_custom_button_border_width">0dp</dimen>
+    <dimen name="default_custom_button_padding_start">10dp</dimen>
+    <dimen name="default_custom_button_padding_end">10dp</dimen>
+    <dimen name="default_custom_button_padding_top">0dp</dimen>
+    <dimen name="default_custom_button_padding_bottom">0dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="bar_header_height">60dp</dimen>
+
+    <dimen name="slidingmenu_offset">60dp</dimen>
+
+    <dimen name="img_picture_user">80dp</dimen>
+    <dimen name="text_size_nano_small">4sp</dimen>
+    <dimen name="text_size_nano_xsmall">6sp</dimen>
+    <dimen name="text_size_very_small">8sp</dimen>
+    <dimen name="text_size_very_xsmall">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_xsmall">13sp</dimen>
+    <dimen name="text_size_xxsmall">14sp</dimen>
+    <dimen name="text_size_xxxsmall">16sp</dimen>
+    <dimen name="text_size_xxxxsmall">18sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_xnormal">20sp</dimen>
+    <dimen name="text_size_mmlarge">24sp</dimen>
+    <dimen name="text_size_xxnormal">25sp</dimen>
+    <dimen name="text_size_xxxnormal">35sp</dimen>
+    <dimen name="text_size_mmmlarge">23sp</dimen>
+    <dimen name="text_size_large">30sp</dimen>
+    <dimen name="text_size_xlarge">40sp</dimen>
+    <dimen name="text_size_xxlarge">60sp</dimen>
+    <dimen name="text_size_xxxlarge">90sp</dimen>
+    <dimen name="text_size_xxxxlarge">120sp</dimen>
+
+    <dimen name="padding_very_small_left">-5dp</dimen>
+    <dimen name="padding_normal_left">-10dp</dimen>
+    <dimen name="padding_large_top">-20dp</dimen>
+    <dimen name="padding_xlarge_left">-25dp</dimen>
+    <dimen name="padding_xxlarge_left">-40dp</dimen>
+    <dimen name="padding_very_small">2dp</dimen>
+    <dimen name="padding_very_small_2">3dp</dimen>
+    <dimen name="padding_very_small_4">4dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_xsmall">8dp</dimen>
+    <dimen name="padding_xxsmall">12dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="padding_xnormal">15dp</dimen>
+    <dimen name="padding_normal_header">15dp</dimen>
+    <dimen name="padding_top">18dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_xlarge">25dp</dimen>
+    <dimen name="padding_xxlarge">35dp</dimen>
+    <dimen name="padding_xxxlarge">40dp</dimen>
+    <dimen name="padding_xxxxlarge">55dp</dimen>
+    <dimen name="padding_xxxxxlarge">70dp</dimen>
+    <dimen name="padding_xxxxxxlarge">80dp</dimen>
+    <dimen name="padding_biglarge">90dp</dimen>
+    <dimen name="padding_xbiglarge">120dp</dimen>
+    <dimen name="padding_fromBottom">150dp</dimen>
+    <dimen name="padding_top_filter">190dp</dimen>
+
+    <dimen name="padding_mc_edit_text">8dp</dimen>
+    <dimen name="tab_indicator_height">2dp</dimen>
+
+    <dimen name="image_size_llsmall">15dp</dimen>
+    <dimen name="image_size_very_small">30dp</dimen>
+    <dimen name="image_size_very_xsmall">40dp</dimen>
+    <dimen name="image_size_small">50dp</dimen>
+    <dimen name="image_size_xsmall">80dp</dimen>
+    <dimen name="image_size_xxsmall">120dp</dimen>
+    <dimen name="image_size_xxxsmall">160dp</dimen>
+    <dimen name="image_size_mnormal">90dp</dimen>
+    <dimen name="image_size_normal">100dp</dimen>
+    <dimen name="image_size_xnormal">140dp</dimen>
+    <dimen name="image_size_xxnormal">180dp</dimen>
+    <dimen name="image_size_large">200dp</dimen>
+    <dimen name="image_size_xlarge">250dp</dimen>
+    <dimen name="image_size_spec_large">321dp</dimen>
+
+
+    <dimen name="special_padding">44dp</dimen>
+
+    <dimen name="default_stack_spacing">12dp</dimen>
+
+
+    <dimen name="image_size_xxlarge_special">260dp</dimen>
+
+    <dimen name="height_bottom_bar">60dp</dimen>
+    <dimen name="height_bottom_bar_nagative">-60dp</dimen>
+
+    <dimen name="height_line">1dp</dimen>
+
+    <!-- Welcome page -->
+    <dimen name="indicator_circle_size">20dp</dimen>
+    <dimen name="welcome_padding">10dp</dimen>
+    <dimen name="button_heigh_small">40dp</dimen>
+    <dimen name="button_width_small">80dp</dimen>
+    <dimen name="button_heigh_normal">50dp</dimen>
+    <dimen name="button_width_normal">150dp</dimen>
+    <dimen name="button_width_very_small">60dp</dimen>
+
+    <dimen name="seek_bar_margin_start">18.5dp</dimen>
+    <dimen name="seek_bar_margin_top">88dp</dimen>
+
+
+    <!-- Custom progress bar -->
+    <dimen name="bootstrap_default_corner_radius">3dp</dimen>
+    <dimen name="bootstrap_progress_bar_height">10dp</dimen>
+    <dimen name="bootstrap_badge_default_size">16dp</dimen>
+    <dimen name="bootstrap_progress_bar_default_font_size">17sp</dimen>
+    <dimen name="bootstrap_button_default_font_size">14sp</dimen>
+
+    <!-- Image Circle FinishedFirstChallenge -->
+    <dimen name="width_icon_circle">128dp</dimen>
+
+    <dimen name="stpi_default_circle_radius">10dp</dimen>
+    <dimen name="stpi_default_circle_stroke_width">4dp</dimen>
+    <dimen name="stpi_default_indicator_radius">4dp</dimen>
+    <dimen name="stpi_default_line_stroke_width">2dp</dimen>
+    <dimen name="stpi_default_line_margin">5dp</dimen>
+
+    <dimen name="stpi_default_text_size">12sp</dimen>
+
+    <dimen name="stpi_default_bottom_indicator_height">3dp</dimen>
+    <dimen name="stpi_default_bottom_indicator_width">50dp</dimen>
+    <dimen name="stpi_default_bottom_indicator_margin_top">10dp</dimen>
+
+    <dimen name="stpi_default_label_size">12sp</dimen>
+    <dimen name="stpi_default_label_margin_top">2dp</dimen>
+
+    <dimen name="stpi_two_dp">2dp</dimen>
+    <dimen name="stpi_done_icon_size">12dp</dimen>
+</resources>
